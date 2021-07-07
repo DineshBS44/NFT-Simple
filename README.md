@@ -76,3 +76,14 @@ For verifying the smart contract deployed to Rinkeby
 ```bash
 truffle run verify NFTSimple --network rinkeby --license MIT
 ```
+
+## Developer
+
+- **Dinesh B S** [(@DineshBS44)](https://github.com/DineshBS44)
+
+## License
+
+Licensed under MIT License : https://opensource.org/licenses/MIT
+
+<br>
+<br>
