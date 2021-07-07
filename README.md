@@ -14,6 +14,11 @@ The smart contract is compiled, tested and deployed using Chainlink Truffle Box
 </p>
 <br/>
 
+## Verified smart contract on Etherscan
+
+- Contract address - **0x317469D994353938d82bC7335Ca77c68Ae7156f4**
+- <a href="https://rinkeby.etherscan.io/address/0x317469D994353938d82bC7335Ca77c68Ae7156f4#contracts">Click here</a> to view more details about the contract
+
 ## Requirements
 
 - NPM
