@@ -1,6 +1,6 @@
 # Simple NFT
 
-Simple NFT is delployed to Ethereum's Public test network called Rinkeby
+Simple NFT is deployed to Ethereum's Public test network called Rinkeby
 
 The smart contract is verified in Etherscan
 
